@@ -1,0 +1,7 @@
+public class Kata {
+    public static String noSpace(final String x) {
+      
+      String spaceless = x.replaceAll(" ","");// \\s is unicode for a single space but you can also use " "
+        return spaceless;
+    }
+}
