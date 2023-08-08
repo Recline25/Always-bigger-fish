@@ -1,3 +1,4 @@
+Development
 # CMPG323-Ex1
 This line of code was done for a kata on codewars, the kata in question was to remove all the spaces in a sentence.
 The code was for a java kata and initially I wrote a decent amount of loops and other stuff and submitted the code, it worked but then I went trough the other answers and stumbled apon this one line that did everything my paragragh did in one line. A single line can be used to do the same amount of work that a paragraph does.
